@@ -1,6 +1,7 @@
 .background {
   background-image: url(https://wallpapercave.com/wp/wp1933949.png);
-  height: 100vh;
+  background-size: cover;
+  width: 100%;
 }
 
 .bonfire {
