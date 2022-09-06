@@ -1,7 +1,7 @@
 {
   "name": "taskmanagerapp",
   "version": "0.1.0",
-  "homepage": "https://alanassange.github.io/taskmanager",
+  "homepage": "https://alanassange.github.io/taskmanagerapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
