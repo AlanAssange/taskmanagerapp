@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/taskmanager/static/css/main.ed128b20.css",
-    "main.js": "/taskmanager/static/js/main.91e151be.js",
-    "static/media/bonfire.gif": "/taskmanager/static/media/bonfire.0896a6c007bbec52c279.gif",
-    "index.html": "/taskmanager/index.html",
-    "main.ed128b20.css.map": "/taskmanager/static/css/main.ed128b20.css.map",
-    "main.91e151be.js.map": "/taskmanager/static/js/main.91e151be.js.map"
+    "main.css": "/taskmanagerapp/static/css/main.ed128b20.css",
+    "main.js": "/taskmanagerapp/static/js/main.f2465260.js",
+    "static/media/bonfire.gif": "/taskmanagerapp/static/media/bonfire.0896a6c007bbec52c279.gif",
+    "index.html": "/taskmanagerapp/index.html",
+    "main.ed128b20.css.map": "/taskmanagerapp/static/css/main.ed128b20.css.map",
+    "main.f2465260.js.map": "/taskmanagerapp/static/js/main.f2465260.js.map"
   },
   "entrypoints": [
     "static/css/main.ed128b20.css",
-    "static/js/main.91e151be.js"
+    "static/js/main.f2465260.js"
   ]
 }
